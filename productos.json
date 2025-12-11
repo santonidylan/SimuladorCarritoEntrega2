@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nombre": "Laptop Gamer", "precio": 1500, "imagen": "💻" },
+    { "id": 2, "nombre": "Mouse Óptico", "precio": 40, "imagen": "🖱️" },
+    { "id": 3, "nombre": "Teclado Mecánico", "precio": 120, "imagen": "⌨️" },
+    { "id": 4, "nombre": "Monitor Curvo", "precio": 350, "imagen": "🖥️" },
+    { "id": 5, "nombre": "Auriculares RGB", "precio": 80, "imagen": "🎧" },
+    { "id": 6, "nombre": "Silla Gamer", "precio": 250, "imagen": "💺" }
+]
